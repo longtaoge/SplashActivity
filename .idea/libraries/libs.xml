@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SplashActivity/libs/zxing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SplashActivity/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SplashActivity/libs/universal-image-loader-1.8.6-with-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SplashActivity/libs/nineoldandroids.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
