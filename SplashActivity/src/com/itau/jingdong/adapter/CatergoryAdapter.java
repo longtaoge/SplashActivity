@@ -63,7 +63,7 @@ public class CatergoryAdapter extends BaseAdapter {
 	public View getView(int position, View convertView, ViewGroup parent) {
 		ViewHolder holder=new ViewHolder();
 		//组装数据
-		if(convertView!=null){
+		if(convertView==null){
 			convertView=layoutInflater.inflate(R.layout.activity_category_item, null);
 			holder.image=(ImageView) convertView.findViewById(R.id.catergory_image);
 			holder.title=(TextView) convertView.findViewById(R.id.catergoryitem_title);
